@@ -28,3 +28,11 @@ pre: " <b> 4. </b> "
 
 &emsp;**Vai trò trong sự kiện:** Người tham dự 
 
+### [Event 3](4.3-Event3/)
+&emsp;**Tên sự kiện:** Vòng đời phát triển theo hướng AI: Tái định hình kỹ thuật phần mềm
+
+&emsp;**Thời gian:** 14:00 – 16:30 ngày 03/10/2025
+
+&emsp;**Địa điểm:** AWS Event Hall, Tầng 26, tòa nhà Bitexco, TP. Hồ Chí Minh
+
+&emsp;**Vai trò trong sự kiện:** Người tham dự

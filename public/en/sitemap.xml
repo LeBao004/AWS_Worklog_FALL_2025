@@ -41,19 +41,6 @@
                 href="http://localhost:1313/Worlog_AWS2025/4-eventparticipated/4.1-event1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Worlog_AWS2025/5-workshop/5.3-setup-amazon-bedrock/5.3.1-check-model/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/Worlog_AWS2025/vi/5-workshop/5.3-setup-amazon-bedrock/5.3.1-check-model/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Worlog_AWS2025/5-workshop/5.3-setup-amazon-bedrock/5.3.1-check-model/"
-                />
-  </url><url>
     <loc>http://localhost:1313/Worlog_AWS2025/5-workshop/5.1-workshop-overview/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -65,6 +52,19 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/Worlog_AWS2025/5-workshop/5.1-workshop-overview/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Worlog_AWS2025/4-eventparticipated/4.3-event3/</loc>
+    <lastmod>2024-12-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:1313/Worlog_AWS2025/vi/4-eventparticipated/4.3-event3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Worlog_AWS2025/4-eventparticipated/4.3-event3/"
                 />
   </url><url>
     <loc>http://localhost:1313/Worlog_AWS2025/3-blogstranslated/3.1-blog1/</loc>
@@ -101,42 +101,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/Worlog_AWS2025/3-blogstranslated/3.3-blog3/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/Worlog_AWS2025/3-blogstranslated/3.4-blog4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/Worlog_AWS2025/vi/3-blogstranslated/3.4-blog4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Worlog_AWS2025/3-blogstranslated/3.4-blog4/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/Worlog_AWS2025/3-blogstranslated/3.5-blog5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/Worlog_AWS2025/vi/3-blogstranslated/3.5-blog5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Worlog_AWS2025/3-blogstranslated/3.5-blog5/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/Worlog_AWS2025/3-blogstranslated/3.6-blog6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/Worlog_AWS2025/vi/3-blogstranslated/3.6-blog6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Worlog_AWS2025/3-blogstranslated/3.6-blog6/"
                 />
   </url><url>
     <loc>http://localhost:1313/Worlog_AWS2025/1-worklog/1.1-week1/</loc>
@@ -321,6 +285,19 @@
                 href="http://localhost:1313/Worlog_AWS2025/1-worklog/1.12-week12/"
                 />
   </url><url>
+    <loc>http://localhost:1313/Worlog_AWS2025/5-workshop/5.3-setup-amazon-bedrock/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:1313/Worlog_AWS2025/vi/5-workshop/5.3-setup-amazon-bedrock/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Worlog_AWS2025/5-workshop/5.3-setup-amazon-bedrock/"
+                />
+  </url><url>
     <loc>http://localhost:1313/Worlog_AWS2025/3-blogstranslated/</loc>
     <xhtml:link
                 rel="alternate"
@@ -398,18 +375,6 @@
                 href="http://localhost:1313/Worlog_AWS2025/5-workshop/5.6-monitoring-cloudwatch/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Worlog_AWS2025/6-self-evaluation/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/Worlog_AWS2025/vi/6-self-evaluation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Worlog_AWS2025/6-self-evaluation/"
-                />
-  </url><url>
     <loc>http://localhost:1313/Worlog_AWS2025/5-workshop/5.7-setup-s3/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -421,6 +386,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/Worlog_AWS2025/5-workshop/5.7-setup-s3/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/Worlog_AWS2025/6-self-evaluation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:1313/Worlog_AWS2025/vi/6-self-evaluation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Worlog_AWS2025/6-self-evaluation/"
                 />
   </url><url>
     <loc>http://localhost:1313/Worlog_AWS2025/7-feedback/</loc>

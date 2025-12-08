@@ -27,3 +27,13 @@ pre: " <b> 4. </b> "
 &emsp;**Location:** At home via GoToWebinar's meeting/recording room.  
 
 &emsp;**Role:** Attendee  
+
+
+### [Event 3](4.3-Event3/)
+&emsp;**Event Name:** AI-Driven Development Lifecycle: Redefining Software Engineering
+
+&emsp;**Time:** 14:00 – 16:30, October 3, 2025
+
+&emsp;**Location:** AWS Event Hall, 26th Floor, Bitexco Tower, Ho Chi Minh City
+
+&emsp;**Role in the event:** Attendees

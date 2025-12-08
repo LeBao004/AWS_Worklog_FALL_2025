@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 3.3. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** for your report, including this warning.
-{{% /notice %}}
+
 
 # Register Now: Updated Exam and New Name for Cloud Operations Certification
 
