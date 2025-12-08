@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/Worlog_AWS2025/vi/</loc>
-    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -223,6 +223,19 @@
                 href="http://localhost:1313/Worlog_AWS2025/vi/1-worklog/1.9-week9/"
                 />
   </url><url>
+    <loc>http://localhost:1313/Worlog_AWS2025/vi/2-proposal/</loc>
+    <lastmod>2025-11-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/Worlog_AWS2025/2-proposal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="http://localhost:1313/Worlog_AWS2025/vi/2-proposal/"
+                />
+  </url><url>
     <loc>http://localhost:1313/Worlog_AWS2025/vi/5-workshop/5.2-prerequiste/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -234,19 +247,6 @@
                 rel="alternate"
                 hreflang="vi"
                 href="http://localhost:1313/Worlog_AWS2025/vi/5-workshop/5.2-prerequiste/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/Worlog_AWS2025/vi/2-proposal/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/Worlog_AWS2025/2-proposal/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://localhost:1313/Worlog_AWS2025/vi/2-proposal/"
                 />
   </url><url>
     <loc>http://localhost:1313/Worlog_AWS2025/vi/1-worklog/1.10-week10/</loc>
