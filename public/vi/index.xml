@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Báo cáo thực tập</title>
-    <link>http://localhost:1313/Worlog_AWS2025/vi/</link>
+    <link>http://localhost:1313/AWS_Worklog_2025/vi/</link>
     <description>Recent content on Báo cáo thực tập</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Fri, 06 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/Worlog_AWS2025/vi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/AWS_Worklog_2025/vi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Event 3</title>
-      <link>http://localhost:1313/Worlog_AWS2025/vi/4-eventparticipated/4.3-event3/</link>
+      <link>http://localhost:1313/AWS_Worklog_2025/vi/4-eventparticipated/4.3-event3/</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Worlog_AWS2025/vi/4-eventparticipated/4.3-event3/</guid>
+      <guid>http://localhost:1313/AWS_Worklog_2025/vi/4-eventparticipated/4.3-event3/</guid>
       <description>&lt;h1 id=&#34;bài-thu-hoạch-vòng-đời-phát-triển-theo-hướng-ai-tái-định-hình-kỹ-thuật-phần-mềm&#34;&gt;Bài Thu Hoạch: &amp;ldquo;Vòng đời phát triển theo hướng AI: Tái định hình kỹ thuật phần mềm&amp;rdquo;&lt;/h1&gt;&#xA;&lt;h3 id=&#34;thông-tin-sự-kiện&#34;&gt;Thông Tin Sự Kiện&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ngày:&lt;/strong&gt; Thứ Sáu, 3 tháng 10, 2025&lt;br&gt;&#xA;&lt;strong&gt;Địa điểm:&lt;/strong&gt; AWS Event Hall, L26 Bitexco Tower, TP. Hồ Chí Minh&lt;br&gt;&#xA;&lt;strong&gt;Đơn vị tổ chức:&lt;/strong&gt; AWS Idolize Team&lt;br&gt;&#xA;&lt;strong&gt;Số lượng tham gia:&lt;/strong&gt; Hơn 300 người đăng ký&lt;br&gt;&#xA;&lt;strong&gt;Hình thức:&lt;/strong&gt; Offline - Trực tiếp tại Bitexco Tower&lt;/p&gt;&#xA;&lt;h3 id=&#34;chương-trình-nghị-sự&#34;&gt;Chương Trình Nghị Sự&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;14:00 - 14:15:&lt;/strong&gt; Đón tiếp&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;14:15 - 15:30:&lt;/strong&gt; Tổng quan về Vòng đời Phát triển theo AI và trình diễn Amazon Q Developer (do Toàn Huỳnh biên soạn)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;15:30 - 15:45:&lt;/strong&gt; Nghỉ giải lao&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;15:45 - 16:30:&lt;/strong&gt; Trình diễn Kiro (do My Nguyen thực hiện)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;bối-cảnh-sự-kiện&#34;&gt;Bối Cảnh Sự Kiện&lt;/h3&gt;&#xA;&lt;p&gt;Sự trỗi dậy của &lt;strong&gt;AI tạo sinh&lt;/strong&gt; đánh dấu một bước chuyển mình mang tính cách mạng trong phát triển phần mềm. AI tạo sinh tái định hình cách các nhà phát triển và tổ chức học hỏi, lập kế hoạch, tạo, triển khai và quản lý ứng dụng một cách an toàn.&lt;/p&gt;</description>
     </item>
   </channel>
