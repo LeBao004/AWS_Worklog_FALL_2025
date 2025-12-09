@@ -7,7 +7,7 @@ pre: " <b> 7. </b> "
 ---
 
 
->Tại đây bạn có thể tự do đóng góp ý kiến cá nhân về những trải nghiệm khi tham gia chương trình First Cloud Journey, giúp team FCJ cải thiện những vấn đề còn thiếu sót dựa trên các hạng mục sau:
+
 
 ### Đánh giá chung
 
@@ -31,12 +31,19 @@ Công ty có hỗ trợ phụ cấp thực tập và tạo điều kiện về t
 
 
 ### Một số câu hỏi khác
-- Điều bạn **hài lòng nhất** trong thời gian thực tập?  
-- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau?  
-- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+- Điều bạn **hài lòng nhất** trong thời gian thực tập? 
+ > "Điều mình hài lòng nhất chính là phương pháp hướng dẫn của Mentor. Thay vì 'cầm tay chỉ việc', Mentor luôn khuyến khích mình tự tư duy, tìm tòi và thử nghiệm giải pháp trước. Điều này không chỉ giúp mình nhớ lâu hơn mà còn rèn luyện được tư duy giải quyết vấn đề – một kỹ năng quan trọng mà trường lớp ít có cơ hội thực hành." 
 
+- Điều bạn nghĩ công ty **cần cải thiện** cho các thực tập sinh sau? 
+> "Dựa trên trải nghiệm cá nhân, mình nghĩ công ty nên tổ chức thêm các hoạt động Team Bonding hoặc Happy Hour nhỏ định kỳ. Mặc dù mọi người rất thân thiện nhưng đôi khi guồng quay công việc khiến việc giao lưu cá nhân còn hạn chế. Những buổi này sẽ giúp các thành viên (đặc biệt là người mới) hiểu rõ hơn về tính cách và phong cách làm việc của nhau, từ đó phối hợp ăn ý hơn nữa."
+
+- Nếu giới thiệu cho bạn bè, bạn có **khuyên họ thực tập ở đây không**? Vì sao?  
+> "Chắc chắn là CÓ. Đây là môi trường lý tưởng cho những ai muốn 'thực chiến'. Tại đây, thực tập sinh không chỉ làm các công việc phụ trợ mà được trực tiếp tham gia vào quy trình dự án thực tế, được tiếp cận công nghệ mới và được tôn trọng như một nhân viên chính thức. Sự cân bằng giữa áp lực công việc và sự hỗ trợ tận tình là điểm cộng lớn nhất."
 
 ### Đề xuất & mong muốn
-- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập?  
+- Bạn có đề xuất gì để cải thiện trải nghiệm trong kỳ thực tập? 
+> Về chuyên môn: "Mình đề xuất team có thể tổ chức thêm các buổi Tech Sharing nội bộ ngắn (khoảng 30 phút - 1 tiếng) hàng tuần hoặc 2 tuần/lần, nơi mọi người chia sẻ về một công nghệ mới hoặc một case study khó vừa giải quyết được. Thực tập sinh cũng có thể tham gia trình bày để rèn kỹ năng." 
 - Bạn có muốn tiếp tục chương trình này trong tương lai?
-- Góp ý khác (tự do chia sẻ):
+> "Mình rất mong muốn được tiếp tục đồng hành cùng FCJ và phát triển lên các vị trí cao hơn (như Collaborator hoặc nhân viên chính thức) sau khi kết thúc kỳ thực tập. Mình cảm thấy văn hóa và định hướng của công ty rất phù hợp với lộ trình phát triển sự nghiệp của bản thân."
+- Góp ý khác :
+> "Mình xin gửi lời cảm ơn chân thành đến các anh chị Mentor đã luôn kiên nhẫn hỗ trợ mình trong suốt thời gian qua. Cảm ơn FCJ đã cho mình một 'First Cloud Journey' thật sự ý nghĩa và trọn vẹn đúng như tên gọi của chương trình."

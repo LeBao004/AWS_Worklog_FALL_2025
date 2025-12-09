@@ -8,7 +8,7 @@ pre: " <b> 7. </b> "
 
 
 
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud Journey program. This will help the FCJ team improve any shortcomings based on the following aspects:
+
 
 ### Overall Evaluation
 
@@ -33,13 +33,21 @@ The company provides an internship allowance and offers flexible working hours w
 ---
 
 ### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+- What were you most **satisfied** with during your internship?
+> "What I was most satisfied with was the Mentor's guidance method. Instead of 'holding your hand', the Mentor always encouraged me to think for myself, research and test solutions first. This not only helped me remember things longer but also trained me in problem-solving thinking - an important skill that schools rarely provide opportunities to practice."
 
----
+- What do you think the company **needs to improve** for future interns?
+> "Based on my personal experience, I think the company should organize more regular Team Bonding or Happy Hour activities. Although everyone is very friendly, sometimes the work schedule limits personal interaction. These sessions will help members (especially new members) better understand each other's personalities and working styles, thereby helping them to work together more effectively."
 
-### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+- If you were to introduce this to a friend, would you **recommend them to intern here**? Why?
+> "Definitely YES. This is an ideal environment for those who want to 'practice'. Here, interns not only do auxiliary work but also directly participate in the actual project process, have access to new technology and are respected as an official employee. The balance between work pressure and dedicated support is the biggest plus point."
+
+### Suggestions & wishes
+- What suggestions do you have to improve the internship experience?
+
+> About expertise: "I suggest that the team can organize more short internal Tech Sharing sessions (about 30 minutes - 1 hour) every week or every 2 weeks, where everyone shares about a new technology or a difficult case study that has just been solved. Interns can also participate in presentations to hone their skills."
+
+- Do you want to continue this program in the future?
+> "I really hope to continue working with FCJ and develop to higher positions (such as Collaborator or official employee) after finishing the internship. I feel that the company's culture and orientation are very suitable for my career development path."
+- Other comments:
+> "I would like to send my sincere thanks to the Mentors who have always patiently supported me throughout the past time. Thank you FCJ for giving me a truly meaningful and complete 'First Cloud Journey' as the name of the program."

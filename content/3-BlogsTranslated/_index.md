@@ -8,7 +8,7 @@ pre: " <b> 3. </b> "
 
 
 
-This section will list and introduce the blogs you have translated. For example:
+
 
 ###  [Blog 1 – Guide to 6 strategies and tools for cloud cost optimization on AWS, Azure, and GCP.](3.1-Blog1/)
 The article focuses on providing **6 core strategies** and practical tools to **optimize cloud costs** systematically across AWS, Azure, and GCP. The key point is that cost optimization is a **continuous and disciplined** effort, starting with **Right-size resources** (adjust resource sizes) and **clean up unused resources** to avoid waste. Other important strategies include **storage cost optimization** by choosing the right **storage tier**, reducing **network egress** fees by managing data flows, and using each platform’s **built-in optimization recommendations** (such as Recommender, Trusted Advisor). The ultimate goal is to set up **continuous monitoring** (budget, alert) to maintain spending performance, helping organizations sustainably reduce costs, increase flexibility, and maintain confidence in their cloud strategy. With a disciplined FinOps practice, you will sustainably reduce costs, increase flexibility, and maintain leadership’s confidence in the cloud strategy.

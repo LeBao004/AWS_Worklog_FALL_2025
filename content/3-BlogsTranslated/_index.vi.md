@@ -8,7 +8,7 @@ pre: " <b> 3. </b> "
 
 
 
-Tại đây sẽ là phần liệt kê, giới thiệu các blogs mà các bạn đã dịch. Ví dụ:
+
 
 ###  [Blog 1 - Tài liệu k6 chiến lược và công cụ tối ưu hóa chi phí đám mây cho AWS, Azure và GCP.](3.1-Blog1/)
 Bài viết tập trung vào việc cung cấp **6 chiến lược cốt lõi** và các công cụ thực tiễn để **tối ưu hóa chi phí cloud** một cách có hệ thống trên AWS, Azure và GCP. Điểm cốt lõi là tối ưu chi phí là một công việc **liên tục và có kỷ luật**, bắt đầu bằng việc **Right-size resources** (Điều chỉnh kích thước tài nguyên) và **dọn dẹp tài nguyên không sử dụng** để tránh lãng phí. Các chiến lược quan trọng khác bao gồm **tối ưu chi phí lưu trữ** bằng cách chọn đúng tầng lưu trữ (storage tier), giảm phí **network egress** bằng cách quản lý luồng dữ liệu, và sử dụng các **công cụ đề xuất tối ưu hóa** tích hợp của từng nền tảng (như Recommender, Trusted Advisor). Mục đích cuối cùng là thiết lập **giám sát liên tục** (budget, alert) để duy trì hiệu suất chi tiêu, giúp doanh nghiệp giảm chi bền vững, tăng tính linh hoạt và giữ được niềm tin vào chiến lược cloud. tảng, cùng vận hành FinOps có kỷ luật, bạn sẽ giảm chi bền vững, tăng tính linh hoạt và giữ được niềm tin của lãnh đạo vào chiến lược cloud.
